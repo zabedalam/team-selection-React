@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Chris Gayle",
+    "email": "fruusa0@abc.net.au",
+    "gender": "male",
+    "img": "https://i.ibb.co/v3PWq4H/gayle.jpg",
+    "salary": "10208999"
+  },
+  {
+    "id": 2,
+    "name": "Sachin TendulKar",
+    "email": "pbroadfoot1@soundcloud.com",
+    "gender": "Male",
+    "img": "https://i.ibb.co/Ydpjqx0/sachin.jpg",
+    "salary": "230008667"
+  },
+  {
+    "id": 3,
+    "name": "Sakib Al Hasan",
+    "email": "bcheale2@simplemachines.org",
+    "gender": "Male",
+    "img": "https://i.ibb.co/JtNm4Sk/sh.jpg",
+    "salary": "21009876"
+  },
+  {
+    "id": 4,
+    "name": "Mashrafee Bin Mortuja",
+    "email": "ctulk3@spiegel.de",
+    "gender": "Male",
+    "img": "https://i.ibb.co/ftGvQQk/masharafee.jpg",
+    "salary": "17899059"
+  },
+  {
+    "id": 5,
+    "name": "Mushifiqur Rahim ",
+    "email": "ntaberer4@theguardian.com",
+    "gender": "Male",
+    "img": "https://i.ibb.co/C8fpHM0/mushifiq.jpg",
+    "salary": "1564320"
+  },
+  {
+    "id": 6,
+    "name": "Braian Lara",
+    "email": "tpendrey5@reference.com",
+    "gender": "Male",
+    "img": "https://i.ibb.co/G5jSDjm/lara.jpg",
+    "salary": "2300869"
+  },
+  {
+    "id": 7,
+    "name": "Murali Dhoron",
+    "email": "mboutell6@mit.edu",
+    "gender": "Male",
+    "img": "https://i.ibb.co/KjPh8xq/murali.jpg",
+    "salary": "896543"
+  },
+  {
+    "id": 8,
+    "name": "Washim Akram",
+    "email": "msargint7@wordpress.org",
+    "gender": "Male",
+    "img": "https://i.ibb.co/56v46tH/washim.jpg",
+    "salary": "2389665"
+  },
+  {
+    "id": 9,
+    "name": "Sayed Anwar",
+    "email": "rlesaunier8@nih.gov",
+    "gender": "Male",
+    "img": "https://i.ibb.co/MnjnxS2/sayed.jpg",
+    "salary": "2300754"
+  },
+  {
+    "id": 10,
+    "name": "Steve Jhon",
+    "email": "myounge9@parallels.com",
+    "gender": "Male",
+    "img": "https://i.ibb.co/mSh231z/steve.jpg",
+    "salary": "23899654"
+  },
+  {
+    "id": 11,
+    "name": "Tamim Iqbal",
+    "email": "ereddlesdena@amazon.de",
+    "gender": "Male",
+    "img": "https://i.ibb.co/TB54HMB/tamim.jpg",
+    "salary": "978543"
+  }
+]
